@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "zmm-bg3"
+version = "0.1.0"
+description = "ZoolooS's mods merger for BG3"
+authors = ["Ilya Popov aka ZoolooS <Ilya.G.Popov.w@gmail.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
