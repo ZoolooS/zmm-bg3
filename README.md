@@ -11,6 +11,7 @@ ZoolooS's mods merger for BG3
 ```console output
 zmm-bg3
 ├───_settings  // app settings
+├───archivers  // archivers apps
 ├───bin        // application files
 └───wd         // app working directory
     ├───_in    // archives and folders witch need to be merged

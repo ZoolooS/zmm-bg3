@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "app_author": "Ilya Popov aka ZoolooS",
+        "app_ver": "0.1.0",
+        "settings_ver": "0.1.0",
+        "file_type": "settings_bkp"
+    },
+    "paths": {
+        "settings": "./_settings",
+        "archives": "./archivers",
+        "wds": {
+            "wd": "./wd",
+            "in": "./wd/_in",
+            "out": "./wd/_out",
+            "logs": "./wd/logs",
+            "tmp": "./wd/tmp"
+        },
+        "game_dirs": {
+            "steam": {
+                "mods": ""
+            },
+            "gog": {
+                "mods": ""
+            },
+            "custom": {
+                "mods": ""
+            }
+        }
+    }
+}
