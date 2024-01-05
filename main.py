@@ -15,9 +15,9 @@ from bin.archivers import *
 
 
 def main(name):
-    # TODO: It need's to be just runner for:
+    # TODO: Just runner for:
     #       - read settings
-    #       - set settings (when GUI will appears)
+    #       - set settings (by config file/-s, then with GUI)
     #       - run unarch process: - get next archived mod ->
     #                             - unarch to destination (to unique folder name each) ->
     #                             - repeat

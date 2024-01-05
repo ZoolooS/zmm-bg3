@@ -21,6 +21,8 @@ from bin.consts import AppConsts
 #           Paker
 #       ) и вынести в нужные модули (если нужно)
 class Mod:
+    # TODO: Mod - abstract parent without exemplars.
+    #       Bunch of exact mod type classes - children with exact params and methods.
     def __init__(self,
                  name,
                  file_name,
